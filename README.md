@@ -10,6 +10,6 @@ Ever wondered what your chances of getting a 100% NCAA bracket would be?
 
 `0`   = absolutely no confidence in picking the winner of any game during march madness!
 
-`50`  = your sure you'll guess 50% of all games during march madness correctly
+`50`  = you're sure you'll guess 50% of all games during march madness correctly
 
 `100` = You're from the future, and already know whats going to happen!
